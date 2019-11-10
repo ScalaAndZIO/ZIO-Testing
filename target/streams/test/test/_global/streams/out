@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(HelloWorldSpec, zio.test.sbt.RunnableSpecFingerprint$@175284d5, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0mDone[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloWorldSpec[0m

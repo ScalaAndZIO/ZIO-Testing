@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TestOperation, zio.test.sbt.RunnableSpecFingerprint$@6472c63e, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0mDone[0m
+[0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
+[0m[[0m[31merror[0m] [0m[0m	TestOperation[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m

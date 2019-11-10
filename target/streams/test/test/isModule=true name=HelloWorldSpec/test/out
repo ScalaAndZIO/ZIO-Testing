@@ -1,0 +1,3 @@
+[0m[[0m[0minfo[0m] [0m[0m[32m+[0m HelloWorldSpec[0m
+[0m[[0m[0minfo[0m] [0m[0m  [32m+[0m sayHello correctly displays output[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRan 1 test in 1 s 688 ms: 1 succeeded, 0 ignored, 0 failed[0m[0m
